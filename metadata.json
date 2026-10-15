@@ -1,0 +1,6 @@
+{
+  "name": "ملتقى الألعاب الخارقة - Mega Party Arcade",
+  "description": "منصة ألعاب متكاملة تدعم اللعب الفردي، الثنائي والرباعي (1, 2, 4 لاعبين) تشمل ألعاباً حربية، تنافسية، رياضية، ثقافية، وذكاء مع ألعاب ثلاثية الأبعاد (3D) وثنائية الأبعاد (2D) ولعبة XO مع تحكم لمسي متطور للهاتف.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
